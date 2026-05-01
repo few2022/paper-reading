@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Claude">
+  <diagram id="paper-structure" name="论文章节组织结构">
+    <mxGraphModel dx="1288" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="理 论 铺 垫" vertex="1">
+          <mxGeometry height="38" width="500" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="方 法 构 建" vertex="1">
+          <mxGeometry height="38" width="500" x="580" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="实 证 检 验" vertex="1">
+          <mxGeometry height="38" width="240" x="1100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 归 纳" vertex="1">
+          <mxGeometry height="38" width="200" x="1360" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 1 章&#xa;绪论" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="60" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="1.1 研究背景与问题提出&#xa;1.2 研究目的与意义&#xa;1.3 研究内容与技术路线&#xa;1.4 研究创新点&#xa;1.5 研究局限性&#xa;1.6 论文组织结构" vertex="1">
+          <mxGeometry height="220" width="233.33" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;问 题 提 出 与 研 究 框 架" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="60" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 2 章&#xa;文献综述与理论基础" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="309.33333333333337" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="2.1 虚假健康信息研究现状&#xa;2.2 LLM 合成数据与数据增强&#xa;2.3 老年群体短视频信息行为&#xa;2.4 短视频平台内容治理与审核技术&#xa;2.5 文本分类模型&#xa;2.6 文献综述总结与研究定位" vertex="1">
+          <mxGeometry height="220" width="233.33" x="309.33" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;理 论 基 础 与 研 究 定 位" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="309.33333333333337" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 3 章&#xa;数据采集与合成数据生成" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="558.6666666666667" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="3.1 短视频平台真实数据采集&#xa;3.2 基于 LLM 的虚假健康信息合成&#xa;3.3 数据集构建&#xa;&#xa;（含 Whisper 转写、&#xa;  五层提示模板、三道筛选）" vertex="1">
+          <mxGeometry height="220" width="233.33" x="558.67" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;数 据 基 础 构 建" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="558.6666666666667" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 4 章&#xa;特征工程与模型设计" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="808" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="4.1 文本预处理&#xa;4.2 特征提取与构建&#xa;4.3 模型设计与实现&#xa;4.4 实验设置&#xa;&#xa;（5 种识别模型框架）" vertex="1">
+          <mxGeometry height="220" width="233.33" x="808" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;方 法 体 系 设 计" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="808" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 5 章&#xa;实验结果与分析" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="1057.3333333333335" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="5.1 实验设置&#xa;5.2 不同合成数据比例下的模型表现&#xa;5.3 五种模型的对比分析&#xa;5.4 方法论稳健性检验&#xa;&#xa;（5 种比例 × 5 种模型 × 5 种 LLM）" vertex="1">
+          <mxGeometry height="220" width="233.33" x="1057.33" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;实 证 检 验 与 分 析" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="1057.3333333333335" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="第 6 章&#xa;总结与展望" vertex="1">
+          <mxGeometry height="65" width="233.33333333333334" x="1306.6666666666667" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=14;spacingTop=12;" value="6.1 研究总结&#xa;6.2 研究局限与未来展望&#xa;&#xa;（回应研究问题与创新点，&#xa;  指出多模态扩展等&#xa;  未来方向）" vertex="1">
+          <mxGeometry height="220" width="233.33" x="1306.67" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研 究 功 能 定 位&#xa;&#xa;研 究 归 纳 与 展 望" vertex="1">
+          <mxGeometry height="60" width="233.33333333333334" x="1306.6666666666667" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="125" edge="1" parent="1" source="107" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.4;fontSize=15;" target="110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="126" edge="1" parent="1" source="110" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.4;fontSize=15;" target="113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="127" edge="1" parent="1" source="113" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.4;fontSize=15;" target="116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="128" edge="1" parent="1" source="116" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.4;fontSize=15;" target="119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="129" edge="1" parent="1" source="119" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.4;fontSize=15;" target="122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="研  究  流  程  推  进" vertex="1">
+          <mxGeometry height="50" width="1480" x="60" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="提 出 问 题" vertex="1">
+          <mxGeometry height="50" width="280" x="140" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="构 建 数 据 与 方 法" vertex="1">
+          <mxGeometry height="50" width="360" x="480" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="实 验 验 证" vertex="1">
+          <mxGeometry height="50" width="280" x="880" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;verticalAlign=middle;" value="总 结 推 广" vertex="1">
+          <mxGeometry height="60" width="220" x="1220" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="135" edge="1" parent="1" source="131" style="endArrow=classic;html=1;rounded=0;strokeWidth=2.4;fontSize=15;" target="132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="136" edge="1" parent="1" source="132" style="endArrow=classic;html=1;rounded=0;strokeWidth=2.4;fontSize=15;" target="133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="137" edge="1" parent="1" source="133" style="endArrow=classic;html=1;rounded=0;strokeWidth=2.4;fontSize=15;" target="134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
