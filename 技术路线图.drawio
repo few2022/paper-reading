@@ -117,10 +117,10 @@
         <mxCell id="138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="Stacking 集成模型" vertex="1">
           <mxGeometry height="60" width="220" x="550" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="深度学习模型&#xa;(TextCNN / BiLSTM)" vertex="1">
+        <mxCell id="139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="深度学习模型&lt;br&gt;( BiLSTM )" vertex="1">
           <mxGeometry height="60" width="240" x="790" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="预训练语言模型&#xa;(BERT / RoBERTa)" vertex="1">
+        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="预训练语言模型&lt;br&gt;( MacBERT )" vertex="1">
           <mxGeometry height="60" width="240" x="1050" y="835" as="geometry" />
         </mxCell>
         <mxCell id="141" edge="1" parent="1" source="131" style="endArrow=classic;html=1;rounded=0;strokeColor=#555555;strokeWidth=1.5;fontSize=22;" target="136" value="">
@@ -184,13 +184,13 @@
           <mxGeometry height="70" width="200" x="315" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="模型适用性&#xa;差异分析" vertex="1">
-          <mxGeometry height="70" width="220" x="550" y="1215" as="geometry" />
+          <mxGeometry height="70" width="220" x="540" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="LLM 生成源&#xa;比较分析" vertex="1">
-          <mxGeometry height="70" width="240" x="800" y="1215" as="geometry" />
+          <mxGeometry height="70" width="240" x="790" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="真实虚假健康信息&#xa;测试集 — 迁移能力验证" vertex="1">
-          <mxGeometry height="70" width="240" x="1060" y="1215" as="geometry" />
+          <mxGeometry height="70" width="240" x="1050" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="164" edge="1" parent="1" source="152" style="endArrow=classic;html=1;rounded=0;strokeColor=#555555;strokeWidth=1.5;fontSize=22;" target="159" value="">
           <mxGeometry relative="1" as="geometry" />
