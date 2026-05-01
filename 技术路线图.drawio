@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Claude">
   <diagram id="tech-roadmap" name="技术路线图">
-    <mxGraphModel dx="1471" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,13 +114,13 @@
         <mxCell id="137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="随机森林&#xa;RF" vertex="1">
           <mxGeometry height="60" width="200" x="330" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="Stacking 集成模型" vertex="1">
+        <mxCell id="138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="Stacking 集成模型&lt;div&gt;LR+RF+SVM&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="550" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="深度学习模型&lt;br&gt;( BiLSTM )" vertex="1">
+        <mxCell id="139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="深度学习模型&lt;br&gt;BiLSTM" vertex="1">
           <mxGeometry height="60" width="240" x="790" y="835" as="geometry" />
         </mxCell>
-        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="预训练语言模型&lt;br&gt;( MacBERT )" vertex="1">
+        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=22;align=center;verticalAlign=middle;" value="预训练语言模型&lt;br&gt;MacBERT" vertex="1">
           <mxGeometry height="60" width="240" x="1050" y="835" as="geometry" />
         </mxCell>
         <mxCell id="141" edge="1" parent="1" source="131" style="endArrow=classic;html=1;rounded=0;strokeColor=#555555;strokeWidth=1.5;fontSize=22;" target="136" value="">
