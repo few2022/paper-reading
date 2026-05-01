@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Claude">
   <diagram id="tech-roadmap" name="技术路线图">
-    <mxGraphModel dx="1873" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,13 +141,13 @@
         <mxCell id="146" parent="1" style="text;html=1;align=center;fontSize=22;fontStyle=1;fontColor=#7F6000;" value="评价指标" vertex="1">
           <mxGeometry height="25" width="100" x="90" y="925" as="geometry" />
         </mxCell>
-        <mxCell id="147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="准确率&#xa;Accuracy" vertex="1">
+        <mxCell id="147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="准确率" vertex="1">
           <mxGeometry height="55" width="180" x="210" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="精确率&#xa;Precision" vertex="1">
+        <mxCell id="148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="精确率" vertex="1">
           <mxGeometry height="55" width="180" x="400" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="召回率&#xa;Recall" vertex="1">
+        <mxCell id="149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="召回率" vertex="1">
           <mxGeometry height="55" width="180" x="590" y="920" as="geometry" />
         </mxCell>
         <mxCell id="150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="F1 值" vertex="1">
@@ -156,7 +156,7 @@
         <mxCell id="151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#999999;fontSize=22;align=center;verticalAlign=middle;" value="训练效率" vertex="1">
           <mxGeometry height="55" width="180" x="970" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="系统对比实验结果&#xa;（不同合成比例 × 不同 LLM 生成源 × 5 种模型）" vertex="1">
+        <mxCell id="152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;shadow=1;" value="系统对比实验结果" vertex="1">
           <mxGeometry height="60" width="820" x="290" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="153" edge="1" parent="1" source="136" style="endArrow=classic;html=1;rounded=0;strokeColor=#888888;strokeWidth=1.2;dashed=1;fontSize=22;" target="152" value="">
@@ -189,7 +189,7 @@
         <mxCell id="162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="LLM 生成源&#xa;比较分析" vertex="1">
           <mxGeometry height="70" width="240" x="790" y="1215" as="geometry" />
         </mxCell>
-        <mxCell id="163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="真实虚假健康信息&#xa;测试集 — 迁移能力验证" vertex="1">
+        <mxCell id="163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=22;align=center;verticalAlign=middle;" value="迁移能力验证" vertex="1">
           <mxGeometry height="70" width="240" x="1050" y="1215" as="geometry" />
         </mxCell>
         <mxCell id="164" edge="1" parent="1" source="152" style="endArrow=classic;html=1;rounded=0;strokeColor=#555555;strokeWidth=1.5;fontSize=22;" target="159" value="">
