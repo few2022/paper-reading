@@ -1,19 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Claude">
   <diagram id="paper-structure" name="论文章节组织结构">
-    <mxGraphModel dx="1373" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-165" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yXGi0CKeTdcsH_m-Iqk7-149">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-166" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yXGi0CKeTdcsH_m-Iqk7-167">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="1009" />
-              <mxPoint x="650" y="600" />
+              <mxPoint x="620" y="1009" />
+              <mxPoint x="620" y="1368" />
             </Array>
-            <mxPoint x="660" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-169" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yXGi0CKeTdcsH_m-Iqk7-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1009" />
+              <mxPoint x="620" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#222222;fontColor=#000000;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;arcSize=8;strokeWidth=2;" value="基 于 大 语 言 模 型 合 成 数 据 的 老 年 人 短 视 频 虚 假 健 康 信 息 识 别 研 究" vertex="1">
@@ -28,11 +32,11 @@
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-140" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-138" style="endArrow=classic;html=1;rounded=0;strokeColor=#222222;strokeWidth=2;endSize=8;fontSize=22;" target="yXGi0CKeTdcsH_m-Iqk7-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-141" parent="1" style="text;html=1;align=center;fontSize=22;fontColor=#000000;fontStyle=2;" value="结合研究空白设计  LLM 合成数据驱动的识别方法" vertex="1">
+        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-141" parent="1" style="text;html=1;align=center;fontSize=22;fontColor=#000000;fontStyle=2;" value="结合研究空白设计  LLM 合成数据驱动" vertex="1">
           <mxGeometry height="28" width="460" x="800" y="723" as="geometry" />
         </mxCell>
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#222222;fontColor=#000000;fontSize=22;fontStyle=1;align=left;verticalAlign=top;dashed=1;dashPattern=8 6;arcSize=10;spacingLeft=12;spacingTop=8;" value="" vertex="1">
-          <mxGeometry height="510" width="720" x="670" y="765" as="geometry" />
+          <mxGeometry height="510" width="620" x="720" y="765" as="geometry" />
         </mxCell>
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#222222;fontColor=#000000;fontSize=22;fontStyle=1;align=center;verticalAlign=middle;arcSize=15;strokeWidth=2;" value="第 三 章 数 据 采 集 与 合 成 数 据 生 成" vertex="1">
           <mxGeometry height="100" width="460" x="800" y="800" as="geometry" />
@@ -58,17 +62,14 @@
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-150" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-145" style="endArrow=classic;html=1;rounded=0;strokeColor=#222222;strokeWidth=2;endSize=8;fontSize=22;" target="yXGi0CKeTdcsH_m-Iqk7-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-158" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-137" style="endArrow=classic;html=1;rounded=0;strokeColor=#222222;strokeWidth=1.5;endSize=8;fontSize=22;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="1010" as="sourcePoint" />
-            <mxPoint x="670" y="1010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-162" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;whiteSpace=wrap;autosizeText=0;fontSize=25;textDirection=vertical-lr;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-style: italic; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;&quot;&gt;数据集 → 模型框架&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-style: italic; text-wrap-mode: nowrap;&quot;&gt;→ 实证结论&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="430" width="110" x="1250" y="775" as="geometry" />
         </mxCell>
         <mxCell id="yXGi0CKeTdcsH_m-Iqk7-167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#222222;fontColor=#000000;fontSize=22;fontStyle=1;align=left;verticalAlign=top;dashed=1;dashPattern=8 6;arcSize=10;spacingLeft=12;spacingTop=8;" value="" vertex="1">
           <mxGeometry height="240" width="600" x="730" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yXGi0CKeTdcsH_m-Iqk7-170" edge="1" parent="1" source="yXGi0CKeTdcsH_m-Iqk7-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" target="yXGi0CKeTdcsH_m-Iqk7-142">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
